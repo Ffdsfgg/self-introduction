@@ -15,7 +15,7 @@
 | 项目 | 技术领域 | 核心价值 | 状态 | 项目类型 | 项目链接 |
 |------|----------|----------|------|----------|----------|
 | **[AI智能教学视频系统](#ai智能教学视频系统)** | AI教育科技 | 让教学视频"看得懂、搜得到、学得会" | 🟢 可用 | 个人项目 | [GitHub仓库](https://github.com/Ffdsfgg/video-ai-agent-master) |
-| **[居无忧智能生活助理](#居无忧智能生活助理)** | AI无障碍技术 | 让无声世界感知生活温度 | 🟢 可用 | 个人项目 | [GitHub仓库](https://github.com/Ffdsfgg/deaf-mute) |
+| **[居无忧智能生活助理](#居无忧智能生活助理)** | AI无障碍技术 | 让无声世界感知生活温度 | 🟢 可用 | 合作项目 | [GitHub仓库](https://github.com/Ffdsfgg/deaf-mute) |
 | **[两岸e家](#两岸e家)** | 跨境服务平台 | 连接闽台，服务两岸 | 🟢 可用 | 个人项目 | [GitHub仓库](https://github.com/Ffdsfgg/second-hand-market-back) |
 | **[博客微服务系统](#博客微服务系统)** | 微服务架构 | 技术练习与架构探索 | 🟡 开发中 | 个人项目 | [GitHub仓库](https://github.com/Ffdsfgg/blog-sql-cloud) |
 | **[苍穹外卖](#苍穹外卖)** | 商业应用 | 在线外卖订购平台单体 | 🟢 完成 | 学习项目 | 黑马项目 |
